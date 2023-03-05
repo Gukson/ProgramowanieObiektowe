@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95d9808a-c5d8-4e5f-b3e8-848ea9e319e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Programy/zajęcia1/HalloWorld.java" afterDir="false" />
+    <list default="true" id="95d9808a-c5d8-4e5f-b3e8-848ea9e319e6" name="Changes" comment="Listy added">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieObiektowe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,11 +33,14 @@
     "ACTIVE_CLOUD_PROJECT_NAME": "Tournaments-dev",
     "ACTIVE_CLOUD_PROJECT_NUMBER": "435597207412",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.google.cloudcode.ide_session_index": "20230302_0000"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/listy" />
       <recent name="$PROJECT_DIR$/Programy" />
     </key>
   </component>
@@ -47,6 +53,14 @@
       <option name="presentableId" value="Default" />
       <updated>1677743864168</updated>
     </task>
+    <task id="LOCAL-00001" summary="Listy added">
+      <created>1677744133881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677744133882</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -59,5 +73,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Listy added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Listy added" />
   </component>
 </project>
