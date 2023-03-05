@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95d9808a-c5d8-4e5f-b3e8-848ea9e319e6" name="Changes" comment="added snipped of lists and created folder for snipperd codes :)">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="95d9808a-c5d8-4e5f-b3e8-848ea9e319e6" name="Changes" comment="added .xml to ignore">
+      <change afterPath="$PROJECT_DIR$/listy/Programy/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listy/Programy/snipped/lista2/Fib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listy/Programy/snipped/lista2/zadanie20s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listy/Programy/snipped/lista3/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieObiektowe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieObiektowe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programy/zajęcia1/HalloWorld.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,10 +53,40 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/listy/snipped-lists" />
+      <recent name="$PROJECT_DIR$/programy" />
       <recent name="$PROJECT_DIR$/listy" />
+      <recent name="$PROJECT_DIR$/Programy/snipped-lists-code" />
+      <recent name="$PROJECT_DIR$/listy/snipped-lists" />
       <recent name="$PROJECT_DIR$/Programy" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.Fib">
+    <configuration name="Fib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snipped.lista2.Fib" />
+      <module name="ProgramowanieObiektowe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="snipped.lista2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="ProgramowanieObiektowe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Fib" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -69,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678031159848</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added .xml to ignore">
+      <created>1678031685801</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678031685801</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +135,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Listy added" />
     <MESSAGE value="added snipped of lists and created folder for snipperd codes :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="added snipped of lists and created folder for snipperd codes :)" />
+    <MESSAGE value="added .xml to ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="added .xml to ignore" />
   </component>
 </project>
