@@ -3,9 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="95d9808a-c5d8-4e5f-b3e8-848ea9e319e6" name="Changes" comment="list3 made">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listy/Programy/snipped/lista2/Fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/listy/Programy/Fib.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listy/Programy/snipped/lista2/zadanie20s.java" beforeDir="false" afterPath="$PROJECT_DIR$/listy/Programy/zadanie20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listy/snipped-lists/Lab2_lista.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/listy/Lab2_lista.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listy/Programy/Fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/listy/Programy/Fib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listy/Programy/zadanie20.java" beforeDir="false" afterPath="$PROJECT_DIR$/listy/Programy/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listy/snipped-lists/Lab1_lista.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listy/snipped-lists/Lab3_lista.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listy/snipped-lists/Lab4-assig-A.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listy/snipped-lists/Lab5_lista.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listy/snipped-lists/Lab6_lista.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listy/snipped-lists/Lab7_lista (1).pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +50,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.google.cloudcode.ide_session_index": "20230309_0000"
+    "com.google.cloudcode.ide_session_index": "20230309_0000",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -78,6 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Printer" />
+      <module name="ProgramowanieObiektowe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="snipped.lista3.Tour" />
       <module name="ProgramowanieObiektowe" />
@@ -104,17 +119,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadanie20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zadanie20" />
-      <module name="ProgramowanieObiektowe" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.snipped.lista2.Fib" />
-        <item itemvalue="Application.zadanie20" />
+        <item itemvalue="Application.Printer" />
         <item itemvalue="Application.Tour" />
         <item itemvalue="Application.Triangle" />
         <item itemvalue="Application.HelloWorld" />

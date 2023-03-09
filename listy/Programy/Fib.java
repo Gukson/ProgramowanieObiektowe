@@ -1,7 +1,8 @@
 public class Fib {
     public static void main(String[] args) {
         fibbI(6);
-        System.out.println(fibbR(5));
+        System.out.println();
+        System.out.println(fibbR(6));
     }
     public static void fibbI(int n){
         int a=0,b=1;
@@ -11,7 +12,6 @@ public class Fib {
             a = b-a;
         }
     }
-    
     public static int fibbR(int n){
         if(n<3) return 1;
         return fibbR(n-2)+ fibbR(n-1);
