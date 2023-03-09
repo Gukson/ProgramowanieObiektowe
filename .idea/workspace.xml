@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95d9808a-c5d8-4e5f-b3e8-848ea9e319e6" name="Changes" comment="list3 made">
+      <change afterPath="$PROJECT_DIR$/listy/snipped-lists/Lab1_lista.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listy/snipped-lists/Lab3_lista.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listy/snipped-lists/Lab4-assig-A.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listy/snipped-lists/Lab5_lista.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listy/snipped-lists/Lab6_lista.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listy/snipped-lists/Lab7_lista (1).pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listy/Programy/Fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/listy/Programy/Fib.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listy/Programy/zadanie20.java" beforeDir="false" afterPath="$PROJECT_DIR$/listy/Programy/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listy/snipped-lists/Lab1_lista.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listy/snipped-lists/Lab3_lista.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listy/snipped-lists/Lab4-assig-A.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listy/snipped-lists/Lab5_lista.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listy/snipped-lists/Lab6_lista.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listy/snipped-lists/Lab7_lista (1).pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,8 @@
     "com.google.cloudcode.ide_session_index": "20230309_0000",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
   }
 }]]></component>
   <component name="RecentsManager">
