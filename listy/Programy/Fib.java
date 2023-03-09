@@ -1,5 +1,3 @@
-package snipped.lista2;
-
 public class Fib {
     public static void main(String[] args) {
         fibbI(6);
@@ -13,7 +11,7 @@ public class Fib {
             a = b-a;
         }
     }
-
+    
     public static int fibbR(int n){
         if(n<3) return 1;
         return fibbR(n-2)+ fibbR(n-1);

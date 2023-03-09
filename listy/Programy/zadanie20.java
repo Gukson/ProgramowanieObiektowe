@@ -1,12 +1,6 @@
-package snipped.lista2;
-
-import java.util.Scanner;
-
-public class zadanie20s {
+public class zadanie20 {
     public static void main(String[] args) {
-        Scanner userInterface = new Scanner(System.in);
-        int N = userInterface.nextInt();
-        print_even(N);
+        print_even(5);
     }
     public static void print_even(int N){
         for(int x = 0; x<=N;x++){

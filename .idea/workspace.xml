@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95d9808a-c5d8-4e5f-b3e8-848ea9e319e6" name="Changes" comment="list2 made">
-      <change afterPath="$PROJECT_DIR$/listy/Programy/snipped/lista3/Tour.java" afterDir="false" />
+    <list default="true" id="95d9808a-c5d8-4e5f-b3e8-848ea9e319e6" name="Changes" comment="list3 made">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listy/Programy/snipped/lista3/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/listy/Programy/snipped/lista3/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listy/Programy/snipped/lista2/Fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/listy/Programy/Fib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listy/Programy/snipped/lista2/zadanie20s.java" beforeDir="false" afterPath="$PROJECT_DIR$/listy/Programy/zadanie20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listy/snipped-lists/Lab2_lista.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/listy/Lab2_lista.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,25 +45,25 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.google.cloudcode.ide_session_index": "20230305_0000"
+    "com.google.cloudcode.ide_session_index": "20230309_0000"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/programy" />
       <recent name="$PROJECT_DIR$/listy" />
+      <recent name="$PROJECT_DIR$/programy" />
       <recent name="$PROJECT_DIR$/Programy/snipped-lists-code" />
       <recent name="$PROJECT_DIR$/listy/snipped-lists" />
       <recent name="$PROJECT_DIR$/Programy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tour">
+  <component name="RunManager" selected="Application.snipped.lista2.Fib">
     <configuration name="Fib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="snipped.lista2.Fib" />
+      <option name="MAIN_CLASS_NAME" value="Fib" />
       <module name="ProgramowanieObiektowe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="snipped.lista2.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +104,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zadanie20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie20" />
+      <module name="ProgramowanieObiektowe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.snipped.lista2.Fib" />
+        <item itemvalue="Application.zadanie20" />
         <item itemvalue="Application.Tour" />
         <item itemvalue="Application.Triangle" />
-        <item itemvalue="Application.Fib" />
         <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
@@ -149,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678036331611</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="list3 made">
+      <created>1678040455306</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678040455306</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +184,7 @@
     <MESSAGE value="added snipped of lists and created folder for snipperd codes :)" />
     <MESSAGE value="added .xml to ignore" />
     <MESSAGE value="list2 made" />
-    <option name="LAST_COMMIT_MESSAGE" value="list2 made" />
+    <MESSAGE value="list3 made" />
+    <option name="LAST_COMMIT_MESSAGE" value="list3 made" />
   </component>
 </project>
