@@ -49,6 +49,7 @@ public class Tour {
         cities.add("Rzym");
         cities.add("Barcelona");
 
+
         System.out.println(cities);
 
         System.out.println(cities.contains("Paryż"));
