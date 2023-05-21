@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95d9808a-c5d8-4e5f-b3e8-848ea9e319e6" name="Changes" comment="list3 made">
+      <change afterPath="$PROJECT_DIR$/listy/Programy/Tour.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listy/snipped-lists/Lab1_lista.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listy/snipped-lists/Lab3_lista.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listy/Programy/snipped/lista3/Tour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listy/Programy/snipped/lista3/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/listy/Programy/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.google.cloudcode.ide_session_index": "20230405_0001",
-    "last_opened_file_path": "/Users/kuba/GitHub/ProgramowanieObiektowe",
+    "com.google.cloudcode.ide_session_index": "20230314_0000",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -61,7 +61,7 @@
       <recent name="$PROJECT_DIR$/Programy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Triangle">
+  <component name="RunManager" selected="Application.Tour">
     <configuration name="Fib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fib" />
       <module name="ProgramowanieObiektowe" />
@@ -117,8 +117,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Triangle" />
         <item itemvalue="Application.Tour" />
+        <item itemvalue="Application.snipped.lista3.Triangle" />
         <item itemvalue="Application.Printer" />
         <item itemvalue="Application.HelloWorld" />
       </list>
