@@ -48,6 +48,14 @@ public class Tour {
         cities.add("Warszawa");
         cities.add("Rzym");
         cities.add("Barcelona");
+        cities.add("Praga");
+        cities.add("Warszawa");
+        cities.add("Rzym");
+        cities.add("Barcelona");
+        cities.add("Praga");
+        cities.add("Warszawa");
+        cities.add("Rzym");
+        cities.add("Barcelona");
 
         System.out.println(cities);
 
