@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95d9808a-c5d8-4e5f-b3e8-848ea9e319e6" name="Changes" comment="list3 made">
+    <list default="true" id="7c05c97e-57ab-4867-89f9-e719ba3ca841" name="Changes" comment="list3 made">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listy/Programy/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/listy/Programy/HelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/listy/Programy/snipped/lista3/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/listy/Programy/snipped/lista3/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -34,22 +36,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ACTIVE_CLOUD_PROJECT_ACCOUNT": "turnieje.dev.gur.maz@gmail.com",
-    "ACTIVE_CLOUD_PROJECT_ID": "tournaments-dev-356923",
-    "ACTIVE_CLOUD_PROJECT_NAME": "Tournaments-dev",
-    "ACTIVE_CLOUD_PROJECT_NUMBER": "435597207412",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.google.cloudcode.ide_session_index": "20230311_0000",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ACTIVE_CLOUD_PROJECT_ACCOUNT&quot;: &quot;turnieje.dev.gur.maz@gmail.com&quot;,
+    &quot;ACTIVE_CLOUD_PROJECT_ID&quot;: &quot;tournaments-dev-356923&quot;,
+    &quot;ACTIVE_CLOUD_PROJECT_NAME&quot;: &quot;Tournaments-dev&quot;,
+    &quot;ACTIVE_CLOUD_PROJECT_NUMBER&quot;: &quot;435597207412&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20230309_0000&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/listy" />
@@ -59,7 +61,7 @@
       <recent name="$PROJECT_DIR$/Programy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Triangle">
+  <component name="RunManager" selected="Application.Fib">
     <configuration name="Fib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fib" />
       <module name="ProgramowanieObiektowe" />
@@ -115,9 +117,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Triangle" />
         <item itemvalue="Application.Printer" />
         <item itemvalue="Application.Tour" />
+        <item itemvalue="Application.Triangle" />
         <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
